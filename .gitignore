@@ -1,0 +1,49 @@
+# Byte-compiled Python files
+*.py[cod]
+
+# C extensions
+*.so
+
+# PyInstaller
+dist/
+build/
+
+# Sphinx documentation
+docs/_build/
+
+# Virtual environments
+env/
+venv/
+virtualenv/
+
+# Package installation
+*.egg-info/
+EGG-INFO/
+
+# IDEs and text editors
+.vscode/
+.idea/
+.pydevproject
+.python-version
+ipython_notebook_config.json
+
+# Operating system files
+.DS_Store
+ehthumbs.db
+Thumbs.db
+
+# Logs and databases
+*.log
+*.db
+sqlite3.db
+
+# Other
+__pycache__/
+*.pyo
+*.pyd
+
+.env
+.venv
+
+/output
+/__marimo__/
