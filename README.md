@@ -40,12 +40,7 @@ You can choose `Self-M-365` to set the default subscription.
 5. Create an .env file in the root of the repository:
 
 ```bash
-cat << EOF >> .env
-export SUBSCRIPTION_ID="1ab20903-761f-4de3-877b-8f281de0f62c"
-export RESOURCE_GROUP_NAME="ai-for-research"
-export WORKSPACE_NAME="ResearchCompute"
-export COMPUTE_CLUSTER="news-test"
-EOF
+CONTENT WILL BE SENT OVER EMAIL.
 ```
 
 6. Create a Python virtual environment:
